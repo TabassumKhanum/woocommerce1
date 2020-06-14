@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "806565206717",
+    "firebase_url": "https://login-9d6e7.firebaseio.com",
+    "project_id": "login-9d6e7",
+    "storage_bucket": "login-9d6e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806565206717:android:72b1cf0bf8287b5aa235d4",
+        "android_client_info": {
+          "package_name": "com.mstoreapp.sociallogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806565206717-fb02bmntl9tf19gtv3o161mjn79iov14.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mstoreapp.sociallogin",
+            "certificate_hash": "13b68c55d72d9d0662f8a419888f9b5e73d45598"
+          }
+        },
+        {
+          "client_id": "806565206717-7e10edjkoafmioo9n7a79b74r69jgo6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg_7Px4LhZDFXV0UbYcj-QL_9MUo5Yfl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806565206717-7e10edjkoafmioo9n7a79b74r69jgo6f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "806565206717-0c35ultaou12k7239n9rms5edne2b9hi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mstoreapp.woocommerce"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806565206717:android:1e216a4976523192a235d4",
+        "android_client_info": {
+          "package_name": "com.mstoreapp.woocommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806565206717-92brbdi9nkloi82le1sekn6jgjh3coh9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mstoreapp.woocommerce",
+            "certificate_hash": "2840c1b4e07e547a439652ad4a2c479465b238f3"
+          }
+        },
+        {
+          "client_id": "806565206717-r69um9b1leipv7e6mhe8o4r49nosb6p6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mstoreapp.woocommerce",
+            "certificate_hash": "13b68c55d72d9d0662f8a419888f9b5e73d45598"
+          }
+        },
+        {
+          "client_id": "806565206717-7e10edjkoafmioo9n7a79b74r69jgo6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg_7Px4LhZDFXV0UbYcj-QL_9MUo5Yfl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806565206717-7e10edjkoafmioo9n7a79b74r69jgo6f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "806565206717-0c35ultaou12k7239n9rms5edne2b9hi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mstoreapp.woocommerce"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
